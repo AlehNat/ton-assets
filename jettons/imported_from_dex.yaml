@@ -271,6 +271,9 @@
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
+- address: 0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1
+  name: Dmitry'Friends
+  symbol: D'F
 - address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
   name: Dancing Cat
   symbol: DANCINGCAT
@@ -664,6 +667,9 @@
 - address: 0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687
   name: Make TON Great Again
   symbol: MTONGA
+- address: 0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a
+  name: 'MTONGA Flag '
+  symbol: MTONGAF
 - address: 0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013
   name: meik tun grit agen
   symbol: MTUNGA
